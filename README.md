@@ -1,16 +1,76 @@
-## Hi there 👋
+# Yashraj Rai
 
-<!--
-**yash1raj234/yash1raj234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Engineer. I ship products end-to-end, from first commit to production.**
 
-Here are some ideas to get you started:
+Not just frontend. Not just backend. The whole thing —
+beautiful interfaces, solid APIs, containerized deployments, and cloud infrastructure that holds under real traffic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Work With
+
+**Frontend**
+```
+Next.js · React · TypeScript · Tailwind CSS
+Framer Motion · GSAP · Three.js · HTML · CSS · JavaScript
+```
+
+**Backend**
+```
+FastAPI · Python · Node.js · PostgreSQL · MySQL · Redis
+REST APIs · WebSockets · Supabase
+```
+
+**DevOps & Cloud**
+```
+Docker · Kubernetes (k3s) · Terraform · GitHub Actions
+AWS (ECS · ECR · S3 · Secrets Manager) · Oracle Cloud
+Prometheus · Grafana · Loki · Caddy · Nginx
+```
+
+**AI Integrations**
+```
+Gemini API · Claude API · OpenAI · pgvector · LangChain
+```
+
+---
+
+## Currently Shipping — 4 Products in 30 Days
+
+| Product | What it does | Stack |
+|---|---|---|
+| **ResumeRadar** | ATS scoring, keyword gap analysis, AI resume rewriting | FastAPI · Gemini · Next.js · PostgreSQL |
+| **InfraChat** | Plain English → Terraform & Docker Compose configs | FastAPI · Claude · Terraform · Monaco Editor |
+| **BriefBot** | Competitor intelligence newsletter, auto-delivered weekly | FastAPI · Gemini · Playwright · Redis · Resend |
+| **PatientBridge** | AI pre-consultation assistant for clinics | FastAPI · Claude · Supabase · Next.js · Twilio |
+
+Every product is built with a production DevOps pipeline —
+Docker → GitHub Actions CI/CD → ECR → Kubernetes → Prometheus monitoring → Telegram alerts.
+
+---
+
+## How I Build
+
+```
+Design the system first.
+Write the infrastructure as code.
+Build the backend, ship the frontend.
+Containerize everything.
+Monitor what matters.
+Iterate on real user feedback.
+```
+
+No tutorial projects. No half-finished repos.
+Everything here is something I built, deployed, and can talk through in depth.
+
+---
+
+## Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yaashraaj.vercel.app/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashrajrai/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashrajrai1234@gmail.com)
+
+---
+
+*Based in Bhopal, India. Open to remote roles and freelance work.*
