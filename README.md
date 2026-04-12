@@ -35,15 +35,6 @@ Gemini API · Claude API · OpenAI · pgvector · LangChain
 
 ---
 
-## Currently Shipping — 4 Products in 30 Days
-
-| Product | What it does | Stack |
-|---|---|---|
-| **ResumeRadar** | ATS scoring, keyword gap analysis, AI resume rewriting | FastAPI · Gemini · Next.js · PostgreSQL |
-| **InfraChat** | Plain English → Terraform & Docker Compose configs | FastAPI · Claude · Terraform · Monaco Editor |
-| **BriefBot** | Competitor intelligence newsletter, auto-delivered weekly | FastAPI · Gemini · Playwright · Redis · Resend |
-| **PatientBridge** | AI pre-consultation assistant for clinics | FastAPI · Claude · Supabase · Next.js · Twilio |
-
 Every product is built with a production DevOps pipeline —
 Docker → GitHub Actions CI/CD → ECR → Kubernetes → Prometheus monitoring → Telegram alerts.
 
