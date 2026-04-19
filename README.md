@@ -63,5 +63,7 @@ Everything here is something I built, deployed, and can talk through in depth.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yashrajrai1234@gmail.com)
 
 ---
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash1raj234&show_icons=true&theme=dark)
+
 
 *Based in Bhopal, India. Open to remote roles and freelance work.*
